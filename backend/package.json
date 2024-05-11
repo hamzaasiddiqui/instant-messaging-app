@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodeman": "^1.1.2",
+    "ws": "^8.17.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
